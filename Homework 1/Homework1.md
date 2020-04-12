@@ -18,11 +18,16 @@ I test the relationship between the racial demographics of states and their deat
 I use linear regression to evaluate correlation between the racial demographics of each state. The code is in the file.
 
 ### Results:
-![Plot: White Americans](Results/Plot_White_Americans.png)
-![Regression: White Americans](Results/Regression_White_Americans.png)
-![Regression: African Americans](Results/Regression_African_Americans.png)
-![Regression: Asian Americans](Results/Regression_Asian_Americans.png)
-![Regression: Two or More Races](Results/Regression_2MoreRaces.png)
+![Plot: White Americans](Results/Plot_White_Americans.png)  
+![Regression: White Americans](Results/Regression_White_Americans.png)  
+![Regression: African Americans](Results/Regression_African_Americans.png)  
+![Regression: Asian Americans](Results/Regression_Asian_Americans.png)  
+![Regression: Two or More Races](Results/Regression_2MoreRaces.png)  
     
 ### Discussion:
 The regression shows a negative slope for the model involing white Americans and people of two or more races, and a negative slope for the model involving African Americans and Asian Americans. This demonstrates support for my hypothesis, since the regression involving African Americans had a positive slope. However, I cannot draw too many conclusions from these results given the low R^2 value of the regression models.
+
+## Task 3
+I am taking this course because I believe it is an excellent opportunity to apply knowledge that I learn towards a current problem in society – in this case, a major global crisis. I am hoping to sharpen current skills, as well as learn the theory of new algorithms and gain practice applying them towards current world data.
+
+This homework took me approximately 2 hours.
