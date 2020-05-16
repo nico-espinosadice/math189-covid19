@@ -11,8 +11,12 @@ For my project, I will conduct sentiment analysis on Tweets regarding the Covid-
 
 The goal of sentiment analysis is to determine the attitude and emotion present in a given form of communication. Sentiment analysis applies natural language processing techniques in order to do so.
 
-## Writing: Final Paper
+## Writing
+### Final Paper
 The final paper is the [Final_Project.pdf](https://github.com/nico-espinosadice/math189-covid19/blob/master/Project/Final_Paper.pdf) file.
+
+### Project Proposal
+The project proposal is the [Project_Proposal.pdf](https://github.com/nico-espinosadice/math189-covid19/blob/master/Project/Project_Proposal.pdf) file.
 
 ## Code
 The code for this project is located in the [Sentiment_Analysis.ipynb](https://github.com/nico-espinosadice/math189-covid19/blob/master/Project/Sentiment_Analysis.ipynb).
